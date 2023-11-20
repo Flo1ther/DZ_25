@@ -1,0 +1,4 @@
+Enter user name:Myroslav
+Enter user age:17
+Enter user name:Max
+Enter user age:17
